@@ -8,4 +8,6 @@
   <li><a href="https://docs.google.com/spreadsheets/d/1uorsMkFzLTLJl4DZKCCB7pgUoQ2ArURd6EFLa8RWix8/edit?usp=sharing">Обновленный чек-лист</a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/123tNoehs5TMfNwYqvPye4nrf9hxTD_xU/edit?usp=sharing&ouid=106503424166961134867&rtpof=true&sd=true">Экспортированные отчеты о дефекте в формате .xlsx</a></li>
   <li><a href="https://drive.google.com/file/d/1v6qML1ZS_R0HKgVjYcuBJEBFb2rmRBT6/view?usp=sharing">Тестовый прогон модулей корзины и оплаты в формате PDF</a></li>
+  <hr>
+  <li><a href="https://drive.google.com/file/d/1QWnEDzOmUlHV8peTsSowvzI9PTR-lPcV/view?usp=sharing">Перехват трафика, используя ПК (Charles Proxy)</a></li>
 </ul>
